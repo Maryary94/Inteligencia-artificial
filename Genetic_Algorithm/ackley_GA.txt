@@ -1,0 +1,14 @@
+Algoritmo de Algoritmo Genetico com a funcao de Ackley
+
+The best individual found is [0 1 1 1 1 1 1 0 0 0]
+The optimal solution is x=-0.07331378299120228 and f(x)=2.9245732443104338 
+
+The best individual found is [0 1 1 1 1 1 1 1 0 0]
+The optimal solution is x=-0.03421309872922773 and f(x)=2.8148173548182385 
+
+The best individual found is [0 1 1 1 1 1 1 1 1 0]
+The optimal solution is x=-0.014662756598240456 and f(x)=2.7597113973649385 
+
+The best individual found is [0 1 1 1 1 1 1 1 1 1]
+The optimal solution is x=-0.004887585532746819 and f(x)=2.73210123135652 
+

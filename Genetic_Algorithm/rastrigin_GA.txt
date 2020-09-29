@@ -1,0 +1,20 @@
+Algoritmo de Algoritmo Genetico com a funcao de Rastrigin
+
+The best individual found is [0 1 1 0 0 1 1 1 1 0]
+The optimal solution is x=-0.9759530791788862 and f(x)=1.0664102783977896 
+
+The best individual found is [1 0 0 1 1 0 1 0 0 0]
+The optimal solution is x=1.046021505376344 and f(x)=1.5093283115206368 
+
+The best individual found is [1 0 0 0 0 0 0 1 0 1]
+The optimal solution is x=0.05505376344085988 and f(x)=0.5953680400098662 
+
+The best individual found is [1 0 0 1 0 1 1 1 1 1]
+The optimal solution is x=0.9559335288367548 and f(x)=1.2946730201979477 
+
+The best individual found is [1 0 0 0 0 0 0 0 0 1]
+The optimal solution is x=0.015014662756597907 and f(x)=0.044692537192609905 
+
+The best individual found is [0 1 1 0 1 0 0 0 0 1]
+The optimal solution is x=-0.9459237536656886 and f(x)=1.4664619089626107 
+

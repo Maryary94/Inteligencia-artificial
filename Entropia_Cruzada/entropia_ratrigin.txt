@@ -1,0 +1,604 @@
+
+
+Algoritmo de Entropia Cruzada com a funcao de Ratrigin
+
+Iteracao: 0
+Time: 50.8641ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749702517431713e-09
+50				mu2=  -1.8688381123114992e-10
+
+Iteracao: 1
+Time: 61.8352ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749816330671192e-09
+50				mu2=  -4.3248442935641866e-10
+
+Iteracao: 2
+Time: 50.8642ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7497299548391055e-09
+50				mu2=  2.7159103105638214e-11
+
+Iteracao: 3
+Time: 50.8644ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749753794104298e-09
+50				mu2=  -4.282347042102345e-10
+
+Iteracao: 4
+Time: 50.8633ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749790399389332e-09
+50				mu2=  -8.529654555970617e-10
+
+Iteracao: 5
+Time: 58.8868ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749810069045155e-09
+50				mu2=  2.2064181859334958e-10
+
+Iteracao: 6
+Time: 50.8664ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749750556396642e-09
+50				mu2=  -1.5171292045247035e-10
+
+Iteracao: 7
+Time: 67.8194ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749568628958364e-09
+50				mu2=  -1.455611219924255e-11
+
+Iteracao: 8
+Time: 67.818ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7497648200312604e-09
+50				mu2=  -2.0481432141904326e-10
+
+Iteracao: 9
+Time: 50.8965ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.74860710337529e-09
+50				mu2=  -4.4771738794984985e-10
+
+Iteracao: 10
+Time: 56.8465ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7495343314255106e-09
+50				mu2=  5.938142818852275e-10
+
+Iteracao: 11
+Time: 50.8639ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749786023602671e-09
+50				mu2=  7.043734237683605e-10
+
+Iteracao: 12
+Time: 49.8663ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749788814216936e-09
+50				mu2=  -3.302268211403874e-11
+
+Iteracao: 13
+Time: 49.9134ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749791395648367e-09
+50				mu2=  3.211122266974702e-10
+
+Iteracao: 14
+Time: 52.8612ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.748238797579493e-09
+50				mu2=  2.912842642993052e-10
+
+Iteracao: 15
+Time: 67.8189ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749730429643197e-09
+50				mu2=  2.519613145776298e-10
+
+Iteracao: 16
+Time: 49.8674ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7494317819722095e-09
+50				mu2=  3.2841419206330294e-10
+
+Iteracao: 17
+Time: 51.8612ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749755051079121e-09
+50				mu2=  -9.218513775946608e-10
+
+Iteracao: 18
+Time: 49.8665ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749619350150968e-09
+50				mu2=  2.309318505624458e-10
+
+Iteracao: 19
+Time: 62.8765ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749695417002448e-09
+50				mu2=  8.876418320044087e-10
+
+Iteracao: 20
+Time: 43.9147ms
+N.Iteracoes 	Solucao
+50				mu1=  0.01711913639960873
+50				mu2=  -0.0008925453611928433
+
+Iteracao: 21
+Time: 52.8585ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7497618040223765e-09
+50				mu2=  5.627830261414352e-10
+
+Iteracao: 22
+Time: 51.8611ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.748718608330181e-09
+50				mu2=  -3.957749626808446e-11
+
+Iteracao: 23
+Time: 53.8583ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7497099758692984e-09
+50				mu2=  -2.3613418320780057e-10
+
+Iteracao: 24
+Time: 65.8238ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7498121370310365e-09
+50				mu2=  1.0532579312341175e-09
+
+Iteracao: 25
+Time: 52.859ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749788246860365e-09
+50				mu2=  6.244777027002193e-10
+
+Iteracao: 26
+Time: 49.8668ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749803142985809e-09
+50				mu2=  7.23441892296813e-10
+
+Iteracao: 27
+Time: 50.8654ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749669404241696e-09
+50				mu2=  3.0365276270560777e-10
+
+Iteracao: 28
+Time: 58.887ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749405125631278e-09
+50				mu2=  -2.685187781104097e-10
+
+Iteracao: 29
+Time: 50.8645ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749539629799738e-09
+50				mu2=  -1.764330729816678e-13
+
+Iteracao: 30
+Time: 49.9097ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.748698406706553e-09
+50				mu2=  -9.038319442105171e-10
+
+Iteracao: 31
+Time: 53.8572ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7497868009607524e-09
+50				mu2=  -3.1134850493078253e-10
+
+Iteracao: 32
+Time: 54.854ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749773981858487e-09
+50				mu2=  -6.01686287290871e-10
+
+Iteracao: 33
+Time: 57.8633ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749785957151685e-09
+50				mu2=  -6.894185163756497e-10
+
+Iteracao: 34
+Time: 50.8642ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749794867408174e-09
+50				mu2=  1.268464454538898e-10
+
+Iteracao: 35
+Time: 51.8603ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.74960197711228e-09
+50				mu2=  1.4616892135655818e-10
+
+Iteracao: 36
+Time: 50.8959ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749798047520463e-09
+50				mu2=  -1.5790390664451404e-10
+
+Iteracao: 37
+Time: 51.8298ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749439688748265e-09
+50				mu2=  -4.740444467700004e-10
+
+Iteracao: 38
+Time: 59.8391ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749701013904702e-09
+50				mu2=  -2.6879800975834577e-10
+
+Iteracao: 39
+Time: 49.8982ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749436178832078e-09
+50				mu2=  -9.062180070559027e-10
+
+Iteracao: 40
+Time: 49.8664ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749779106534281e-09
+50				mu2=  -1.0550959780456742e-09
+
+Iteracao: 41
+Time: 49.8993ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.746926739334392e-09
+50				mu2=  -7.021285499520133e-10
+
+Iteracao: 42
+Time: 57.8905ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7493302953364074e-09
+50				mu2=  3.0026380490559434e-10
+
+Iteracao: 43
+Time: 49.8972ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749661452834292e-09
+50				mu2=  -4.209311132168959e-10
+
+Iteracao: 44
+Time: 50.8647ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7486036768678425e-09
+50				mu2=  7.223747377512169e-10
+
+Iteracao: 45
+Time: 50.8915ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749182470589671e-09
+50				mu2=  -2.5738468882142376e-10
+
+Iteracao: 46
+Time: 50.8962ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749813271176334e-09
+50				mu2=  -3.117997264904964e-10
+
+Iteracao: 47
+Time: 59.8399ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.74946059114096e-09
+50				mu2=  -8.162832674088381e-10
+
+Iteracao: 48
+Time: 49.8977ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749704797372647e-09
+50				mu2=  2.0812708244082734e-10
+
+Iteracao: 49
+Time: 50.8816ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.74978498912127e-09
+50				mu2=  -2.7051949480779234e-11
+
+Iteracao: 50
+Time: 49.8992ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749750070847448e-09
+50				mu2=  1.5458326653663227e-10
+
+Iteracao: 51
+Time: 57.8504ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749766445904594e-09
+50				mu2=  4.429303361502969e-10
+
+Iteracao: 52
+Time: 50.864ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749583600856571e-09
+50				mu2=  1.4031972149923243e-10
+
+Iteracao: 53
+Time: 49.8672ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.748250306730199e-09
+50				mu2=  8.138707865820971e-10
+
+Iteracao: 54
+Time: 50.8631ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749749237298659e-09
+50				mu2=  1.879145863274308e-10
+
+Iteracao: 55
+Time: 50.8624ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.748924354353433e-09
+50				mu2=  -2.4803056087799477e-10
+
+Iteracao: 56
+Time: 58.8937ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749811341190287e-09
+50				mu2=  -7.656962160084099e-10
+
+Iteracao: 57
+Time: 51.8969ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7481719092193325e-09
+50				mu2=  -1.1476556074971186e-09
+
+Iteracao: 58
+Time: 50.8974ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749602993096454e-09
+50				mu2=  7.373077156180966e-11
+
+Iteracao: 59
+Time: 50.8962ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.748095762592027e-09
+50				mu2=  1.2958788737383535e-10
+
+Iteracao: 60
+Time: 57.846ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749774407390205e-09
+50				mu2=  4.141069410040445e-10
+
+Iteracao: 61
+Time: 63.8282ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749812536704563e-09
+50				mu2=  2.7784127389097293e-10
+
+Iteracao: 62
+Time: 50.8964ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749791136527474e-09
+50				mu2=  8.36664202569291e-11
+
+Iteracao: 63
+Time: 50.8633ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.74978502486134e-09
+50				mu2=  2.7753543603700313e-10
+
+Iteracao: 64
+Time: 49.8676ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749650408018138e-09
+50				mu2=  -3.932145362515256e-11
+
+Iteracao: 65
+Time: 57.8902ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749810749004401e-09
+50				mu2=  -1.640432945583974e-10
+
+Iteracao: 66
+Time: 50.8951ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749739999908701e-09
+50				mu2=  -5.549331339046436e-10
+
+Iteracao: 67
+Time: 52.8584ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749359727384552e-09
+50				mu2=  1.0467567117188618e-10
+
+Iteracao: 68
+Time: 50.9078ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749730633202802e-09
+50				mu2=  2.6467964249934195e-10
+
+Iteracao: 69
+Time: 50.8645ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749605350792872e-09
+50				mu2=  -4.655794630749854e-11
+
+Iteracao: 70
+Time: 57.8898ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.748739024099215e-09
+50				mu2=  1.0367736105128597e-09
+
+Iteracao: 71
+Time: 50.9094ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749639296521403e-09
+50				mu2=  1.0816078495590369e-10
+
+Iteracao: 72
+Time: 49.9104ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749746879553463e-09
+50				mu2=  -4.815139471127061e-10
+
+Iteracao: 73
+Time: 49.911ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7495316725112556e-09
+50				mu2=  -7.750981205076064e-11
+
+Iteracao: 74
+Time: 57.8902ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749626523938787e-09
+50				mu2=  4.5128893543947724e-12
+
+Iteracao: 75
+Time: 50.9122ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.748786421183642e-09
+50				mu2=  3.540772052565475e-10
+
+Iteracao: 76
+Time: 49.9133ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749554315333044e-09
+50				mu2=  -3.8184945461747465e-10
+
+Iteracao: 77
+Time: 58.8429ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749586989038282e-09
+50				mu2=  5.809727668900267e-12
+
+Iteracao: 78
+Time: 51.8611ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.74976164128838e-09
+50				mu2=  -3.8443733392097684e-10
+
+Iteracao: 79
+Time: 58.8879ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749795341287842e-09
+50				mu2=  -2.2364198160892442e-10
+
+Iteracao: 80
+Time: 57.8465ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749642012104695e-09
+50				mu2=  -2.9537322973581847e-10
+
+Iteracao: 81
+Time: 57.8465ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749792950817798e-09
+50				mu2=  1.7489246062819112e-10
+
+Iteracao: 82
+Time: 49.8671ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.74981113374012e-09
+50				mu2=  5.217201059121789e-10
+
+Iteracao: 83
+Time: 58.8735ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749282221250395e-09
+50				mu2=  -1.791465493916801e-10
+
+Iteracao: 84
+Time: 49.8996ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749797219796487e-09
+50				mu2=  -4.90510212643979e-10
+
+Iteracao: 85
+Time: 50.8632ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7493145018839265e-09
+50				mu2=  -2.7032264135782915e-10
+
+Iteracao: 86
+Time: 50.8646ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749774401212979e-09
+50				mu2=  2.629139598206107e-10
+
+Iteracao: 87
+Time: 49.897ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7486205270527856e-09
+50				mu2=  3.686908063039336e-11
+
+Iteracao: 88
+Time: 57.8783ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7494798415322225e-09
+50				mu2=  8.669828975426943e-10
+
+Iteracao: 89
+Time: 49.8979ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749624217452134e-09
+50				mu2=  -6.37407384085367e-11
+
+Iteracao: 90
+Time: 51.8615ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749805735183989e-09
+50				mu2=  -8.59420337234306e-11
+
+Iteracao: 91
+Time: 57.8464ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.74942011459174e-09
+50				mu2=  9.38028272492747e-12
+
+Iteracao: 92
+Time: 50.9086ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7495267826396315e-09
+50				mu2=  5.336994109469028e-10
+
+Iteracao: 93
+Time: 60.8377ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749783823138923e-09
+50				mu2=  2.189061765176958e-10
+
+Iteracao: 94
+Time: 62.8335ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749677724413691e-09
+50				mu2=  -1.5815278124510947e-10
+
+Iteracao: 95
+Time: 50.8636ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749612198238123e-09
+50				mu2=  2.986269334026656e-10
+
+Iteracao: 96
+Time: 49.9152ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.7496612507523795e-09
+50				mu2=  -2.136881832771519e-11
+
+Iteracao: 97
+Time: 58.8887ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749773622701348e-09
+50				mu2=  -6.701186360066942e-10
+
+Iteracao: 98
+Time: 49.9136ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749740997463572e-09
+50				mu2=  3.3890114936523824e-10
+
+Iteracao: 99
+Time: 55.8525ms
+N.Iteracoes 	Solucao
+50				mu1=  -3.749774712772275e-09
+50				mu2=  5.994674402294408e-10
+
